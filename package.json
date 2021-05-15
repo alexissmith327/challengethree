@@ -1,7 +1,6 @@
 {
   "name": "nucampsite",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "lite": "lite-server",
@@ -19,5 +18,14 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexissmith327/challengethree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexissmith327/challengethree/issues"
+  },
+  "homepage": "https://github.com/alexissmith327/challengethree#readme",
+  "description": ""
 }
